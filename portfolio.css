@@ -1,0 +1,15 @@
+#navbar {
+  height: 25px;
+	position: fixed;
+  top: 0;
+}
+
+#welcome-section {
+	height: 100vh;
+}
+
+@media only screen and (max-width: 600px) {
+    body {
+        background-color: lightblue;
+    }
+}
