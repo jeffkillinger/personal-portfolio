@@ -11,6 +11,15 @@ section {
   background-size: cover;
 }
 
+#profile-pic {
+  width: 300px;
+  border-radius: 50%;
+}
+
+#intro-text {
+  color: white;
+}
+
 .social {
   justify-content: flex-end;
 }
