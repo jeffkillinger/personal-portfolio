@@ -6,6 +6,11 @@ section {
   display: flex;
 }
 
+#welcome-section {
+  background-image: url("images/city.jpg");
+  background-size: cover;
+}
+
 .social {
   justify-content: flex-end;
 }
