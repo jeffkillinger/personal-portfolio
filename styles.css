@@ -1,19 +1,21 @@
 section {
+  padding-top: 56px;
   height: 100vh;
 }
 
-.navbar-nav {
-  display: flex;
+#welcome-section {
+  background-image: url("images/citynight.jpg");
+  background-size: cover;
 }
 
-#welcome-section {
-  background-image: url("images/city.jpg");
-  background-size: cover;
+.profile {
+  margin: 35px 0px 0px 65px;
 }
 
 #profile-pic {
   width: 300px;
   border-radius: 50%;
+  padding-bottom: 15px;
 }
 
 #intro-text {
